@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sumit Mathur
 - 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning MERN
-- 💞️ I’m working as a Software Developer ..
+- 💞️ I’m working as a Full Stack Developer ..
 - 📫 How to reach me ...Mob- 9717837769, Email- sumitmathurl777@gmail.com
 
 <!---
