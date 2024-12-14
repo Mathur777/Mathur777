@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sumit Mathur
-- 👀 I’m interested in Android Development.
+- 👋 Hi, I’m Sumit Mathur.
 - 💞️ I’m working as a Full Stack Developer ..
 - 📫 How to reach me ...Mob- 9717837769, Email- sumitmathurl777@gmail.com
 
